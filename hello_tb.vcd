@@ -1,0 +1,81 @@
+$date
+	Wed Sep 11 00:24:33 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module iirfilter_tb $end
+$var wire 4 ! y [3:0] $end
+$var reg 4 " a [3:0] $end
+$var reg 1 # clk $end
+$var reg 1 $ rst $end
+$var reg 4 % x [3:0] $end
+$scope module iir1 $end
+$var wire 4 & a [3:0] $end
+$var wire 1 # clk $end
+$var wire 4 ' x [3:0] $end
+$var reg 4 ( y [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx (
+b1 '
+b10 &
+b1 %
+1$
+0#
+b10 "
+bx !
+$end
+#5
+b11 !
+b11 (
+1#
+#10
+0#
+0$
+#15
+1#
+#20
+0#
+#25
+1#
+#30
+0#
+#35
+1#
+#40
+0#
+#45
+1#
+#50
+0#
+#55
+1#
+#60
+0#
+#65
+1#
+#70
+0#
+#75
+1#
+#80
+0#
+#85
+1#
+#90
+0#
+#95
+1#
+#100
+0#
+#105
+1#
+#110
+0#
